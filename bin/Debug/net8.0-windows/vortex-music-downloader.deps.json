@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "vortex-music-downloader/1.0.0": {
+        "runtime": {
+          "vortex-music-downloader.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "vortex-music-downloader/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

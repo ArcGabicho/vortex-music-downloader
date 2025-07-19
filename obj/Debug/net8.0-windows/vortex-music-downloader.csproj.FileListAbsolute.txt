@@ -1,0 +1,16 @@
+C:\Users\gabic\Documents\Proyectos\vortex-music-downloader\bin\Debug\net8.0-windows\vortex-music-downloader.exe
+C:\Users\gabic\Documents\Proyectos\vortex-music-downloader\bin\Debug\net8.0-windows\vortex-music-downloader.deps.json
+C:\Users\gabic\Documents\Proyectos\vortex-music-downloader\bin\Debug\net8.0-windows\vortex-music-downloader.runtimeconfig.json
+C:\Users\gabic\Documents\Proyectos\vortex-music-downloader\bin\Debug\net8.0-windows\vortex-music-downloader.dll
+C:\Users\gabic\Documents\Proyectos\vortex-music-downloader\bin\Debug\net8.0-windows\vortex-music-downloader.pdb
+C:\Users\gabic\Documents\Proyectos\vortex-music-downloader\obj\Debug\net8.0-windows\vortex_music_downloader.Form1.resources
+C:\Users\gabic\Documents\Proyectos\vortex-music-downloader\obj\Debug\net8.0-windows\vortex-music-downloader.csproj.GenerateResource.cache
+C:\Users\gabic\Documents\Proyectos\vortex-music-downloader\obj\Debug\net8.0-windows\vortex-music-downloader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabic\Documents\Proyectos\vortex-music-downloader\obj\Debug\net8.0-windows\vortex-music-downloader.AssemblyInfoInputs.cache
+C:\Users\gabic\Documents\Proyectos\vortex-music-downloader\obj\Debug\net8.0-windows\vortex-music-downloader.AssemblyInfo.cs
+C:\Users\gabic\Documents\Proyectos\vortex-music-downloader\obj\Debug\net8.0-windows\vortex-music-downloader.csproj.CoreCompileInputs.cache
+C:\Users\gabic\Documents\Proyectos\vortex-music-downloader\obj\Debug\net8.0-windows\vortex-music-downloader.dll
+C:\Users\gabic\Documents\Proyectos\vortex-music-downloader\obj\Debug\net8.0-windows\refint\vortex-music-downloader.dll
+C:\Users\gabic\Documents\Proyectos\vortex-music-downloader\obj\Debug\net8.0-windows\vortex-music-downloader.pdb
+C:\Users\gabic\Documents\Proyectos\vortex-music-downloader\obj\Debug\net8.0-windows\vortex-music-downloader.genruntimeconfig.cache
+C:\Users\gabic\Documents\Proyectos\vortex-music-downloader\obj\Debug\net8.0-windows\ref\vortex-music-downloader.dll
