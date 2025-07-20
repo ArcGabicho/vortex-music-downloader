@@ -93,17 +93,17 @@
             button2 = new Button();
             button1 = new Button();
             panel2 = new Panel();
-            pictureBox11 = new PictureBox();
-            pictureBox12 = new PictureBox();
-            pictureBox13 = new PictureBox();
-            pictureBox14 = new PictureBox();
-            label33 = new Label();
-            label34 = new Label();
-            label35 = new Label();
-            progressBar1 = new ProgressBar();
-            pictureBox15 = new PictureBox();
-            progressBar2 = new ProgressBar();
             label36 = new Label();
+            progressBar2 = new ProgressBar();
+            pictureBox15 = new PictureBox();
+            progressBar1 = new ProgressBar();
+            label35 = new Label();
+            label34 = new Label();
+            label33 = new Label();
+            pictureBox14 = new PictureBox();
+            pictureBox13 = new PictureBox();
+            pictureBox12 = new PictureBox();
+            pictureBox11 = new PictureBox();
             panel1.SuspendLayout();
             panel8.SuspendLayout();
             panel12.SuspendLayout();
@@ -126,11 +126,11 @@
             panel3.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             panel2.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)pictureBox11).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)pictureBox12).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)pictureBox13).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)pictureBox14).BeginInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox15).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox14).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox13).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox12).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox11).BeginInit();
             SuspendLayout();
             // 
             // panel1
@@ -375,6 +375,7 @@
             // pictureBox10
             // 
             pictureBox10.BackColor = SystemColors.Desktop;
+            pictureBox10.InitialImage = Properties.Resources.portada;
             pictureBox10.Location = new Point(14, 12);
             pictureBox10.Name = "pictureBox10";
             pictureBox10.Size = new Size(162, 128);
@@ -391,6 +392,7 @@
             // pictureBox9
             // 
             pictureBox9.BackColor = SystemColors.Window;
+            pictureBox9.InitialImage = Properties.Resources.icon_busqueda;
             pictureBox9.Location = new Point(217, 20);
             pictureBox9.Name = "pictureBox9";
             pictureBox9.Size = new Size(37, 32);
@@ -400,6 +402,7 @@
             // pictureBox8
             // 
             pictureBox8.BackColor = SystemColors.Window;
+            pictureBox8.InitialImage = Properties.Resources.portada;
             pictureBox8.Location = new Point(656, 88);
             pictureBox8.Name = "pictureBox8";
             pictureBox8.Size = new Size(134, 122);
@@ -409,6 +412,7 @@
             // pictureBox7
             // 
             pictureBox7.BackColor = SystemColors.Window;
+            pictureBox7.InitialImage = Properties.Resources.portada;
             pictureBox7.Location = new Point(512, 88);
             pictureBox7.Name = "pictureBox7";
             pictureBox7.Size = new Size(126, 122);
@@ -418,6 +422,7 @@
             // pictureBox6
             // 
             pictureBox6.BackColor = SystemColors.Window;
+            pictureBox6.InitialImage = Properties.Resources.portada;
             pictureBox6.Location = new Point(365, 88);
             pictureBox6.Name = "pictureBox6";
             pictureBox6.Size = new Size(131, 122);
@@ -427,6 +432,7 @@
             // pictureBox5
             // 
             pictureBox5.BackColor = SystemColors.Window;
+            pictureBox5.InitialImage = Properties.Resources.portada;
             pictureBox5.Location = new Point(217, 88);
             pictureBox5.Name = "pictureBox5";
             pictureBox5.Size = new Size(131, 122);
@@ -706,6 +712,7 @@
             // pictureBox1
             // 
             pictureBox1.BackColor = SystemColors.HighlightText;
+            pictureBox1.InitialImage = Properties.Resources.user;
             pictureBox1.Location = new Point(42, 19);
             pictureBox1.Name = "pictureBox1";
             pictureBox1.Size = new Size(37, 41);
@@ -804,61 +811,39 @@
             panel2.Size = new Size(1015, 63);
             panel2.TabIndex = 0;
             // 
-            // pictureBox11
+            // label36
             // 
-            pictureBox11.BackColor = SystemColors.MenuText;
-            pictureBox11.Location = new Point(12, 7);
-            pictureBox11.Name = "pictureBox11";
-            pictureBox11.Size = new Size(42, 46);
-            pictureBox11.TabIndex = 0;
-            pictureBox11.TabStop = false;
+            label36.AutoSize = true;
+            label36.ForeColor = SystemColors.Window;
+            label36.Location = new Point(762, 25);
+            label36.Name = "label36";
+            label36.Size = new Size(28, 15);
+            label36.TabIndex = 10;
+            label36.Text = "4:10";
             // 
-            // pictureBox12
+            // progressBar2
             // 
-            pictureBox12.BackColor = SystemColors.MenuText;
-            pictureBox12.Location = new Point(73, 7);
-            pictureBox12.Name = "pictureBox12";
-            pictureBox12.Size = new Size(42, 46);
-            pictureBox12.TabIndex = 1;
-            pictureBox12.TabStop = false;
+            progressBar2.Location = new Point(858, 17);
+            progressBar2.Name = "progressBar2";
+            progressBar2.Size = new Size(136, 23);
+            progressBar2.TabIndex = 9;
             // 
-            // pictureBox13
+            // pictureBox15
             // 
-            pictureBox13.BackColor = SystemColors.MenuText;
-            pictureBox13.Location = new Point(135, 7);
-            pictureBox13.Name = "pictureBox13";
-            pictureBox13.Size = new Size(42, 46);
-            pictureBox13.TabIndex = 2;
-            pictureBox13.TabStop = false;
+            pictureBox15.BackColor = SystemColors.MenuText;
+            pictureBox15.InitialImage = Properties.Resources.icon_sonido;
+            pictureBox15.Location = new Point(804, 6);
+            pictureBox15.Name = "pictureBox15";
+            pictureBox15.Size = new Size(42, 46);
+            pictureBox15.TabIndex = 8;
+            pictureBox15.TabStop = false;
             // 
-            // pictureBox14
+            // progressBar1
             // 
-            pictureBox14.BackColor = SystemColors.MenuText;
-            pictureBox14.Location = new Point(217, 7);
-            pictureBox14.Name = "pictureBox14";
-            pictureBox14.Size = new Size(42, 46);
-            pictureBox14.TabIndex = 3;
-            pictureBox14.TabStop = false;
-            // 
-            // label33
-            // 
-            label33.AutoSize = true;
-            label33.ForeColor = SystemColors.Window;
-            label33.Location = new Point(267, 7);
-            label33.Name = "label33";
-            label33.Size = new Size(60, 15);
-            label33.TabIndex = 4;
-            label33.Text = "Memories";
-            // 
-            // label34
-            // 
-            label34.AutoSize = true;
-            label34.ForeColor = SystemColors.Window;
-            label34.Location = new Point(267, 37);
-            label34.Name = "label34";
-            label34.Size = new Size(58, 15);
-            label34.TabIndex = 5;
-            label34.Text = "Maroon 5";
+            progressBar1.Location = new Point(382, 17);
+            progressBar1.Name = "progressBar1";
+            progressBar1.Size = new Size(374, 23);
+            progressBar1.TabIndex = 7;
             // 
             // label35
             // 
@@ -870,38 +855,65 @@
             label35.TabIndex = 6;
             label35.Text = "3:55";
             // 
-            // progressBar1
+            // label34
             // 
-            progressBar1.Location = new Point(382, 17);
-            progressBar1.Name = "progressBar1";
-            progressBar1.Size = new Size(374, 23);
-            progressBar1.TabIndex = 7;
+            label34.AutoSize = true;
+            label34.ForeColor = SystemColors.Window;
+            label34.Location = new Point(267, 37);
+            label34.Name = "label34";
+            label34.Size = new Size(58, 15);
+            label34.TabIndex = 5;
+            label34.Text = "Maroon 5";
             // 
-            // pictureBox15
+            // label33
             // 
-            pictureBox15.BackColor = SystemColors.MenuText;
-            pictureBox15.Location = new Point(804, 6);
-            pictureBox15.Name = "pictureBox15";
-            pictureBox15.Size = new Size(42, 46);
-            pictureBox15.TabIndex = 8;
-            pictureBox15.TabStop = false;
+            label33.AutoSize = true;
+            label33.ForeColor = SystemColors.Window;
+            label33.Location = new Point(267, 7);
+            label33.Name = "label33";
+            label33.Size = new Size(60, 15);
+            label33.TabIndex = 4;
+            label33.Text = "Memories";
             // 
-            // progressBar2
+            // pictureBox14
             // 
-            progressBar2.Location = new Point(858, 17);
-            progressBar2.Name = "progressBar2";
-            progressBar2.Size = new Size(136, 23);
-            progressBar2.TabIndex = 9;
+            pictureBox14.BackColor = SystemColors.MenuText;
+            pictureBox14.InitialImage = Properties.Resources.portada;
+            pictureBox14.Location = new Point(217, 7);
+            pictureBox14.Name = "pictureBox14";
+            pictureBox14.Size = new Size(42, 46);
+            pictureBox14.TabIndex = 3;
+            pictureBox14.TabStop = false;
             // 
-            // label36
+            // pictureBox13
             // 
-            label36.AutoSize = true;
-            label36.ForeColor = SystemColors.Window;
-            label36.Location = new Point(762, 25);
-            label36.Name = "label36";
-            label36.Size = new Size(28, 15);
-            label36.TabIndex = 10;
-            label36.Text = "4:10";
+            pictureBox13.BackColor = SystemColors.MenuText;
+            pictureBox13.InitialImage = Properties.Resources.icons8_último_48;
+            pictureBox13.Location = new Point(135, 7);
+            pictureBox13.Name = "pictureBox13";
+            pictureBox13.Size = new Size(42, 46);
+            pictureBox13.TabIndex = 2;
+            pictureBox13.TabStop = false;
+            // 
+            // pictureBox12
+            // 
+            pictureBox12.BackColor = SystemColors.MenuText;
+            pictureBox12.InitialImage = Properties.Resources.icon_pausa;
+            pictureBox12.Location = new Point(73, 7);
+            pictureBox12.Name = "pictureBox12";
+            pictureBox12.Size = new Size(42, 46);
+            pictureBox12.TabIndex = 1;
+            pictureBox12.TabStop = false;
+            // 
+            // pictureBox11
+            // 
+            pictureBox11.BackColor = SystemColors.MenuText;
+            pictureBox11.InitialImage = Properties.Resources.icon_antes;
+            pictureBox11.Location = new Point(12, 7);
+            pictureBox11.Name = "pictureBox11";
+            pictureBox11.Size = new Size(42, 46);
+            pictureBox11.TabIndex = 0;
+            pictureBox11.TabStop = false;
             // 
             // Form1
             // 
@@ -944,11 +956,11 @@
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             panel2.ResumeLayout(false);
             panel2.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)pictureBox11).EndInit();
-            ((System.ComponentModel.ISupportInitialize)pictureBox12).EndInit();
-            ((System.ComponentModel.ISupportInitialize)pictureBox13).EndInit();
-            ((System.ComponentModel.ISupportInitialize)pictureBox14).EndInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox15).EndInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox14).EndInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox13).EndInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox12).EndInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox11).EndInit();
             ResumeLayout(false);
         }
 

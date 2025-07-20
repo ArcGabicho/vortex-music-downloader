@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("vortex-music-downloader")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+39d93c8051569bf92d88c625244a6405ffe705b4")]
 [assembly: System.Reflection.AssemblyProductAttribute("vortex-music-downloader")]
 [assembly: System.Reflection.AssemblyTitleAttribute("vortex-music-downloader")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

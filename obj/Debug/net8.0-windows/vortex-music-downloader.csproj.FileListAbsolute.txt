@@ -14,3 +14,5 @@ C:\Users\gabic\Documents\Proyectos\vortex-music-downloader\obj\Debug\net8.0-wind
 C:\Users\gabic\Documents\Proyectos\vortex-music-downloader\obj\Debug\net8.0-windows\vortex-music-downloader.pdb
 C:\Users\gabic\Documents\Proyectos\vortex-music-downloader\obj\Debug\net8.0-windows\vortex-music-downloader.genruntimeconfig.cache
 C:\Users\gabic\Documents\Proyectos\vortex-music-downloader\obj\Debug\net8.0-windows\ref\vortex-music-downloader.dll
+C:\Users\gabic\Documents\Proyectos\vortex-music-downloader\obj\Debug\net8.0-windows\vortex_music_downloader.Properties.Resources.resources
+C:\Users\gabic\Documents\Proyectos\vortex-music-downloader\obj\Debug\net8.0-windows\vortex-music-downloader.sourcelink.json

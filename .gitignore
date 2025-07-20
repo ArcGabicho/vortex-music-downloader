@@ -1,0 +1,14 @@
+# Ignorar archivos de Visual Studio
+.vs/
+*.user
+*.suo
+*.cache
+*.log
+
+# Ignorar archivos binarios y de compilación
+bin/
+obj/
+
+# Ignorar base de datos temporal si no deseas subirla
+*.mdf
+*.ldf
